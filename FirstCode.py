@@ -7,3 +7,4 @@ def Thanos(x):
 
 x = int(input("Please Enter the number of stones Thanos got"))
 print(Thanos(x))
+ 	
